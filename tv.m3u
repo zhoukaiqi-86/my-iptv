@@ -1,10 +1,57 @@
 #EXTM3U
 
-#EXTINF:-1,CCTV1
+# ===== CCTV =====
+
+#EXTINF:-1 group-title="央视",CCTV1 综合
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="央视",CCTV5 体育
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1,湖南卫视
+#EXTINF:-1 group-title="央视",CCTV5+ 体育赛事
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV16 奥林匹克
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+# ===== 卫视 =====
+
+#EXTINF:-1 group-title="卫视",湖南卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="卫视",浙江卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="卫视",东方卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="卫视",江苏卫视
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+# ===== NBA =====
+
+#EXTINF:-1 group-title="NBA",NBA频道1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="NBA",NBA频道2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="NBA",NBA高清
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+# ===== 足球 =====
+
+#EXTINF:-1 group-title="足球",英超
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="足球",西甲
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="足球",欧冠
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="足球",德甲
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
